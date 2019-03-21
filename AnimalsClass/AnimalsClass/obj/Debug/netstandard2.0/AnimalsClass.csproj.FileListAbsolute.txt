@@ -1,0 +1,9 @@
+C:\Users\Acer\source\repos\AnimalsClass\AnimalsClass\bin\Debug\netstandard2.0\AnimalsClass.deps.json
+C:\Users\Acer\source\repos\AnimalsClass\AnimalsClass\bin\Debug\netstandard2.0\AnimalsClass.dll
+C:\Users\Acer\source\repos\AnimalsClass\AnimalsClass\bin\Debug\netstandard2.0\AnimalsClass.pdb
+C:\Users\Acer\source\repos\AnimalsClass\AnimalsClass\obj\Debug\netstandard2.0\AnimalsClass.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\AnimalsClass\AnimalsClass\obj\Debug\netstandard2.0\AnimalsClass.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\AnimalsClass\AnimalsClass\obj\Debug\netstandard2.0\AnimalsClass.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\AnimalsClass\AnimalsClass\obj\Debug\netstandard2.0\AnimalsClass.AssemblyInfo.cs
+C:\Users\Acer\source\repos\AnimalsClass\AnimalsClass\obj\Debug\netstandard2.0\AnimalsClass.dll
+C:\Users\Acer\source\repos\AnimalsClass\AnimalsClass\obj\Debug\netstandard2.0\AnimalsClass.pdb
