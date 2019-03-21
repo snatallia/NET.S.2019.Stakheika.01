@@ -1,0 +1,9 @@
+F:\NATALI\ASPNET\EPAM\2 OFFLINE\Day1\IntegerArraySort\IntegerArraySort\obj\Debug\netstandard2.0\IntegerArraySort.csprojAssemblyReference.cache
+F:\NATALI\ASPNET\EPAM\2 OFFLINE\Day1\IntegerArraySort\IntegerArraySort\obj\Debug\netstandard2.0\IntegerArraySort.csproj.CoreCompileInputs.cache
+F:\NATALI\ASPNET\EPAM\2 OFFLINE\Day1\IntegerArraySort\IntegerArraySort\obj\Debug\netstandard2.0\IntegerArraySort.AssemblyInfoInputs.cache
+F:\NATALI\ASPNET\EPAM\2 OFFLINE\Day1\IntegerArraySort\IntegerArraySort\obj\Debug\netstandard2.0\IntegerArraySort.AssemblyInfo.cs
+F:\NATALI\ASPNET\EPAM\2 OFFLINE\Day1\IntegerArraySort\IntegerArraySort\bin\Debug\netstandard2.0\IntegerArraySort.deps.json
+F:\NATALI\ASPNET\EPAM\2 OFFLINE\Day1\IntegerArraySort\IntegerArraySort\bin\Debug\netstandard2.0\IntegerArraySort.dll
+F:\NATALI\ASPNET\EPAM\2 OFFLINE\Day1\IntegerArraySort\IntegerArraySort\bin\Debug\netstandard2.0\IntegerArraySort.pdb
+F:\NATALI\ASPNET\EPAM\2 OFFLINE\Day1\IntegerArraySort\IntegerArraySort\obj\Debug\netstandard2.0\IntegerArraySort.dll
+F:\NATALI\ASPNET\EPAM\2 OFFLINE\Day1\IntegerArraySort\IntegerArraySort\obj\Debug\netstandard2.0\IntegerArraySort.pdb

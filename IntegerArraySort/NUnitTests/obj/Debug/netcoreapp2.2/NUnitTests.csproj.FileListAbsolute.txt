@@ -1,0 +1,17 @@
+F:\NATALI\ASPNET\EPAM\2 OFFLINE\Day1\IntegerArraySort\NUnitTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+F:\NATALI\ASPNET\EPAM\2 OFFLINE\Day1\IntegerArraySort\NUnitTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+F:\NATALI\ASPNET\EPAM\2 OFFLINE\Day1\IntegerArraySort\NUnitTests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+F:\NATALI\ASPNET\EPAM\2 OFFLINE\Day1\IntegerArraySort\NUnitTests\bin\Debug\netcoreapp2.2\NUnitTests.deps.json
+F:\NATALI\ASPNET\EPAM\2 OFFLINE\Day1\IntegerArraySort\NUnitTests\bin\Debug\netcoreapp2.2\NUnitTests.runtimeconfig.json
+F:\NATALI\ASPNET\EPAM\2 OFFLINE\Day1\IntegerArraySort\NUnitTests\bin\Debug\netcoreapp2.2\NUnitTests.runtimeconfig.dev.json
+F:\NATALI\ASPNET\EPAM\2 OFFLINE\Day1\IntegerArraySort\NUnitTests\bin\Debug\netcoreapp2.2\NUnitTests.dll
+F:\NATALI\ASPNET\EPAM\2 OFFLINE\Day1\IntegerArraySort\NUnitTests\bin\Debug\netcoreapp2.2\NUnitTests.pdb
+F:\NATALI\ASPNET\EPAM\2 OFFLINE\Day1\IntegerArraySort\NUnitTests\bin\Debug\netcoreapp2.2\IntegerArraySort.dll
+F:\NATALI\ASPNET\EPAM\2 OFFLINE\Day1\IntegerArraySort\NUnitTests\bin\Debug\netcoreapp2.2\IntegerArraySort.pdb
+F:\NATALI\ASPNET\EPAM\2 OFFLINE\Day1\IntegerArraySort\NUnitTests\obj\Debug\netcoreapp2.2\NUnitTests.csprojAssemblyReference.cache
+F:\NATALI\ASPNET\EPAM\2 OFFLINE\Day1\IntegerArraySort\NUnitTests\obj\Debug\netcoreapp2.2\NUnitTests.csproj.CoreCompileInputs.cache
+F:\NATALI\ASPNET\EPAM\2 OFFLINE\Day1\IntegerArraySort\NUnitTests\obj\Debug\netcoreapp2.2\NUnitTests.AssemblyInfoInputs.cache
+F:\NATALI\ASPNET\EPAM\2 OFFLINE\Day1\IntegerArraySort\NUnitTests\obj\Debug\netcoreapp2.2\NUnitTests.AssemblyInfo.cs
+F:\NATALI\ASPNET\EPAM\2 OFFLINE\Day1\IntegerArraySort\NUnitTests\obj\Debug\netcoreapp2.2\NUnitTests.csproj.CopyComplete
+F:\NATALI\ASPNET\EPAM\2 OFFLINE\Day1\IntegerArraySort\NUnitTests\obj\Debug\netcoreapp2.2\NUnitTests.dll
+F:\NATALI\ASPNET\EPAM\2 OFFLINE\Day1\IntegerArraySort\NUnitTests\obj\Debug\netcoreapp2.2\NUnitTests.pdb
