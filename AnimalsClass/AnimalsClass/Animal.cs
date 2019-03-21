@@ -1,11 +1,8 @@
-﻿using System;
-
-namespace AnimalClass
+﻿namespace AnimalClass
 {
     /// <summary>
     /// Animal class - essence aminal
     /// animal can eat, walk, growl
-    /// 
     /// </summary>
     public class Animal
     {

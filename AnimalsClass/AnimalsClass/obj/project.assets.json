@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Acer\\source\\repos\\AnimalsClass\\AnimalsClass\\AnimalLib.csproj",
+      "projectUniqueName": "F:\\NATALI\\ASPNET\\EPAM\\NET.S.2019.Stakheika.01\\AnimalsClass\\AnimalsClass\\AnimalLib.csproj",
       "projectName": "AnimalLib",
-      "projectPath": "C:\\Users\\Acer\\source\\repos\\AnimalsClass\\AnimalsClass\\AnimalLib.csproj",
+      "projectPath": "F:\\NATALI\\ASPNET\\EPAM\\NET.S.2019.Stakheika.01\\AnimalsClass\\AnimalsClass\\AnimalLib.csproj",
       "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Acer\\source\\repos\\AnimalsClass\\AnimalsClass\\obj\\",
+      "outputPath": "F:\\NATALI\\ASPNET\\EPAM\\NET.S.2019.Stakheika.01\\AnimalsClass\\AnimalsClass\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
